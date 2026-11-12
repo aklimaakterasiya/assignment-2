@@ -162,11 +162,11 @@ li {
     grid-template-rows: repeat(3, 150px);
     gap: 10px;
     border-radius: 40px;
-    background-color: rgba(53,17,101,0.4);
+    background-color: rgba(53, 17, 101, 0.4);
     margin: 40px 200px 200px 200px;
     padding: 107px 40px 107px 40px;
     border: none;
-    
+
 }
 
 .medium-layout {
@@ -186,52 +186,53 @@ li {
 
 /* featured style  */
 
-.featured{
+.featured {
     background-color: #1a0b2e;
 }
 
-.featured h3{
+.featured h3 {
     font-size: 48px;
     font-weight: 700;
     color: #ffffff;
-    padding: 120px 200px 40px 200px; 
+    padding: 120px 200px 40px 200px;
     text-align: center;
 }
 
-.featured-card{
+.featured-card {
     background-color: #250d44;
     gap: 30px;
     border-radius: 24px;
 }
 
-.featured-card h5{
+.featured-card h5 {
     font-size: 24px;
     font-weight: 700;
     color: #ffffff;
     padding: 24px 24px 24px 12px;
 }
 
-.featured-card h6{
+.featured-card h6 {
     font-size: 16px;
     font-weight: 400;
     color: #00ff88;
 }
 
-.host{
+.host {
     gap: 24px;
-    background-color: rgba(53,17,101,0.4);
+    background-color: rgba(53, 17, 101, 0.4);
     margin: 0 auto;
     padding: 40px 200px 120px 200px;
     border-radius: 40px;
 
 }
-.host h4{
+
+.host h4 {
     font-size: 32px;
     font-weight: 700;
     color: #ffffff;
 }
 
-.host-icon img{
+.host-icon img {
     border: 1px solid #533c72;
     border-radius: 50%;
     margin-right: 20px;
@@ -241,22 +242,22 @@ li {
 
 /* footer style  */
 
-footer{
+footer {
     background-image: url(../assets/footer-bg.png);
 }
 
-.footer-container{
+.footer-container {
     text-align: center;
 }
 
-.footer-container h2{
+.footer-container h2 {
     font-size: 70px;
     font-weight: 900;
     color: #ffffff;
     padding: 120px 66px 10px 66px;
 }
 
-.icon{
+.icon {
     text-align: center;
     gap: 40px;
 }
